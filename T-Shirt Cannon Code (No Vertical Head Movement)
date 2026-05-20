@@ -10,9 +10,9 @@
 #define CH4_PIN 7    // Turning
 
 #define CH7_PIN 9    // Relay controls
-#define CH8_PIN 11
-#define CH9_PIN 12
-#define CH10_PIN 13
+#define CH8_PIN 10
+#define CH9_PIN 11
+#define CH10_PIN 12
 
 // ================== RELAYS ==================
 #define RELAY6 28
